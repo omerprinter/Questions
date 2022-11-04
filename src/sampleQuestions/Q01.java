@@ -7,14 +7,14 @@ public class Q01 {
          * write a method which accepts a String as parameter
          * and prints the sum of the digits, present in the given string
          *
-         * Input : a7de1r4d3
-         * Output : 1+4+3 = 8
+         * Input : a7d2e1r4d3
+         * Output : 7+2+1+4+3 = 17
          *
          * Use Character.isDigit() karakter rakamsa
          *     Integer.valueOf()  icine string gelmeli
          */
 
-        String str="a7de1r4d3";
+        String str="a7d2e1r4d3";
         sumOfDigits(str);
 
     }
