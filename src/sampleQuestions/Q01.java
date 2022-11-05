@@ -14,7 +14,7 @@ public class Q01 {
          *     Integer.valueOf()  icine string gelmeli
          */
 
-        String str="a7d2e1r4d3";
+        String str="a7d2e1r4d30";
         sumOfDigits(str);
 
     }
